@@ -72,8 +72,8 @@ nav ul li a {
 .hero-content {
     position: relative;
     text-align: left; /* Aligns text to the left */
-    color: #000;
-    background: rgba(168, 149, 102, 1); /* Optional for contrast */
+    color: #E7D3A6;
+    background: rgba(162, 106, 59, 1); /* Optional for contrast */
     padding: 20px;
     border-radius: 10px;
     max-width: 50%;
